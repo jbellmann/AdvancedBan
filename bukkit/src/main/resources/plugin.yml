@@ -3,7 +3,7 @@ version: ${project.version}
 main: ${project.groupId}.bukkit.BukkitMain
 author: Leoko
 softdepend: [Vault]
-api-version: 1.13
+api-version: 1.20.2
 
 commands:
   AdvancedBan:

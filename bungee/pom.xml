@@ -20,10 +20,12 @@
             <url>https://oss.sonatype.org/content/repositories/snapshots</url>
         </repository>
         <!-- RedisBungee -->
+        <!--
         <repository>
             <id>md_5-snapshots</id>
             <url>http://repo.md-5.net/content/repositories/snapshots/</url>
         </repository>
+        -->
         <!-- CloudNet -->
         <repository>
             <id>cloudnet3-releases</id>
@@ -52,13 +54,13 @@
         <dependency>
             <groupId>de.dytanic.cloudnet</groupId>
             <artifactId>cloudnet-driver</artifactId>
-            <version>3.3.0-RELEASE</version>
+            <version>3.4.5-RELEASE</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>de.dytanic.cloudnet</groupId>
             <artifactId>cloudnet-bridge</artifactId>
-            <version>3.3.0-RELEASE</version>
+            <version>3.4.5-RELEASE</version>
             <scope>provided</scope>
         </dependency>
 
